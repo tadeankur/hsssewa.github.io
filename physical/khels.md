@@ -7,4 +7,4 @@ for more illustration about how to perform baithaks`
 https://www.indiatvnews.com/video/lifestyle/transform-your-body-with-dand-baithak-exercises-swami-ramdev-633292
 
 
-**2. Play online games here: https://songtrivia2.io/game/
+**2. Play online games here**: https://songtrivia2.io/game/
