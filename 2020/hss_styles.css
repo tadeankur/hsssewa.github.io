@@ -1,0 +1,18 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: dodgerblue;
+}
+
+p {
+    color: red;
+}
+
+table, th, tr, td {
+    border: 1px solid black;
+}
