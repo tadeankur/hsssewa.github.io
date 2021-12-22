@@ -1,5 +1,5 @@
 
-# Sewa Acitivities for Shakhs
+# Sewa Activities for Shakhas
 
 
 - Plant trees
@@ -14,9 +14,12 @@
 - Support Old-age homes
   - Old age home visits
   - Christmas Card distribution in the old age homes
+  - Walking tours for old people during summer.
+- Connect with one old person nearby house
+  - Invite him for tea or dinner
 - Conduct yoga classes
 - Conduct online event for donations (Ekal meet)
-- Condcut Sewa Day
+- Arrange Sewa Day(sewaday.org)
 - Beach cleaning 
 - Volunteer in any children’s activities arrange by the municipalities. 
 - Arrange Dandiya with fees and the profit from the program should be donated some local agencies like cancer society
@@ -24,7 +27,10 @@
 - cleaning plastics waste from sea shores
 - Tulsi distribution program and guide people about how to maintain Tulasi.
 - Support Goushala financially.
-- online mantra chanting for peace
+- online mantra chanting for peace.
+- conduct donation drive
+- Indian food stalls in localcity festivals and donation the profit to some volunteer organizations.
+
 
 
 
