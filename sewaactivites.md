@@ -1,5 +1,5 @@
 
-# Sewa Acitivities for Shakhs
+# Sewa Activities for Shakhas
 
 
 - Plant trees
@@ -16,7 +16,7 @@
   - Christmas Card distribution in the old age homes
 - Conduct yoga classes
 - Conduct online event for donations (Ekal meet)
-- Condcut Sewa Day
+- Arrange Sewa Day(sewaday.org)
 - Beach cleaning 
 - Volunteer in any children’s activities arrange by the municipalities. 
 - Arrange Dandiya with fees and the profit from the program should be donated some local agencies like cancer society
