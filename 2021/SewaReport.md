@@ -30,7 +30,7 @@ Read the detailed sewa report [here](./Seva%20Europe%20Covid%20Report%20(2).pdf)
 - 12 people are doing yoga and bauddhik together on every Sunday
 - Helped to develop the temple association and supporing construction of temple
 
-## Belgium
+## Poland
 - Helped Indian workers who were stranded due to Covid-19 with groceries.
 
 ## Norway
