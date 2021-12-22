@@ -29,7 +29,7 @@
 - Support Goushala financially.
 - online mantra chanting for peace.
 - conduct donation drive
-- Indian food stalls in localcity festivals and donation the profit to some volunteer organizations.
+- Indian food stalls in local city festivals and donate the profit to some volunteer organizations.
 
 
 
