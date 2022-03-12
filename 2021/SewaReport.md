@@ -1,5 +1,5 @@
 
-# Sewa Report 2021 (Work in Progress)
+# Sewa Report 2021 
 
 ## Sewa work done during Second wave of Covid-19
 Read the detailed sewa report [here](./Seva%20Europe%20Covid%20Report%20(2).pdf) 
