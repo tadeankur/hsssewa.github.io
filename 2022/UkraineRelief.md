@@ -42,5 +42,5 @@ Volunteers of Sewa International Europe at border areas helped Indian embassies 
   https://bit.ly/SewaUkraineHelpline
 - #### Link for volunteer registration
   https://forms.gle/iVhLYPX8Uk8Th6tv7
-- ### Link for registration of expences
+- #### Link for registration of expences
   https://forms.gle/to4Au8ZTK7hFLuVp6
