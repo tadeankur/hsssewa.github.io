@@ -34,13 +34,13 @@ Volunteers of Sewa International Europe at border areas helped Indian embassies 
 “Vasudhaiv Kutumbakam” - The whole world is one family | Together we serve better
 
 
-##Important links
+## Important links
 
-- ####Ukraine Sewa helpline registration for those who we affected
+- #### Ukraine Sewa helpline registration for those who we affected
   https://docs.google.com/forms/d/e/1FAIpQLSft7sNO42vaewof2BiFAtpKEp1X1Hd264NYeiK5ykv0k81MVA/viewform
 
   https://bit.ly/SewaUkraineHelpline
-- ####Link for volunteer registration
+- #### Link for volunteer registration
   https://forms.gle/iVhLYPX8Uk8Th6tv7
-- Link for registration of expences
+- ### Link for registration of expences
   https://forms.gle/to4Au8ZTK7hFLuVp6
