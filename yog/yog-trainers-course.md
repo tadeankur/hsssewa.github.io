@@ -1,1 +1,2 @@
-[sukshma vyayam](sukshmavyayam.md)
+1. [Pryarer](Pryarer.md)
+2. [sukshma vyayam](sukshmavyayam.md)
