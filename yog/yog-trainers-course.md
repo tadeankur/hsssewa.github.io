@@ -1,2 +1,2 @@
-1. [pryarer](preyayer.md)
+1. [prayer](prayer.md)
 2. [sukshma vyayam](sukshmavyayam.md)
