@@ -1,0 +1,1 @@
+[sukshma vyayam](sukshmavyayam.md)
