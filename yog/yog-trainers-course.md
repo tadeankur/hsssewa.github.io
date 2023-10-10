@@ -35,4 +35,4 @@
 
 # Practical
 
-[Practical-A51-Tadasana-Vrikshasana-Ardha-Chakrasana-Padahastasana-Kati-Chakrasana-Trikonasan](Practical-A51-Tadasana-Vrikshasana-Ardha-Chakrasana-Padahastasana-Kati-Chakrasana-Trikonasan.pdf)
+[Practical-A51-Tadasana-Vrikshasana-Ardha-Chakrasana-Padahastasana-Kati-Chakrasana-Trikonasan](practical/Practical-A51-Tadasana-Vrikshasana-Ardha-Chakrasana-Padahastasana-Kati-Chakrasana-Trikonasan.pdf)
